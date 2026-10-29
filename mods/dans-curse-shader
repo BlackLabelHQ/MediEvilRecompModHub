@@ -1,0 +1,7 @@
+type=shader
+name=Dan's Curse Shader
+description=A simple shader with the goal of improving the looks of the game (requires better rendering to be turned on)
+repository=https://github.com/flafmg/DansCurse
+commit=1747991195f82da3afb3350c78cf66a142fa2c14
+authors=flaffymg
+tags=shader
