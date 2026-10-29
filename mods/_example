@@ -1,0 +1,8 @@
+type=mod
+name=Some Example Mod
+description=Cool Example Mod That Does Nothing And Doesnt Even Exist
+repository=https://github.com/SomeFakeGitHubUser/SomeExampleMod.git
+commit=09d10542e6d78150dd701f93a2fcbbefc107c6c0
+authors=SomeExampleUserGoesHere
+tags=qol, camera
+warning=This mod submits your IP address to a 3rd-party server not controlled or verified by BlackLabelHQ!
