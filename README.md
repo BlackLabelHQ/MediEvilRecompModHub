@@ -69,7 +69,7 @@ If you do not agree with these guidelines you are free to host your mod in other
 
 ## For developers
 
-The hub is part of the RecompOne runtime, so any recompiled game can use it, the game points it at its hub repository by using:
+The hub is part of the RecompOne runtime, so any recompiled game made with RecompOne can use it, the game points it at its hub repository by using:
 
 ```csharp
 RecompOne.Runtime.Hub.ModHub.Configure("BlackLabelHQ/MediEvilRecompModHub");
