@@ -62,7 +62,7 @@ Entries that break these rules are not merged, and existing ones will get remoev
 
 We reserve the final word on what goes into the hub, installing anything from the hub is at your own risk the entries are reviewed, but that is not a guarantee
 
-If you do not agree with these guidelines you are free to host your mod in other plataforms such as gamebanana or thunderstore
+If you do not agree with these guidelines you are free to host your mod on thunderstore at our page that can be found here[link to be added].
 
 ---
 
